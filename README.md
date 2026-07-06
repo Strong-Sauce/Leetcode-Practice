@@ -16,6 +16,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0620-not-boring-movies](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1280-students-and-examinations) |
