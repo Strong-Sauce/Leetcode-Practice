@@ -33,4 +33,5 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1757-recyclable-and-low-fat-products](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
