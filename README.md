@@ -30,6 +30,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1789-primary-department-for-each-employee) |
