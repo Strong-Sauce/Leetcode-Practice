@@ -18,23 +18,44 @@ class Node {
 }
 */
 
+// dfs
 class Solution {
+    Map<Node, Node> map = new HashMap<>();
     public Node cloneGraph(Node node) {
-        if (node == null) return null;
-        Map<Node, Node> map = new HashMap<>();
-        Queue<Node> q = new LinkedList<>();
-        q.offer(node);
-        map.put(node, new Node(node.val));
-        while (!q.isEmpty()) {
-            Node curr = q.poll();
-            for (Node nei : curr.neighbors) {
-                if (!map.containsKey(nei)) {
-                    map.put(nei, new Node(nei.val));
-                    q.offer(nei);
-                }
-                map.get(curr).neighbors.add(map.get(nei));
-            }
+        if(node == null)
+            return null;
+
+        if(map.containsKey(node))
+            return map.get(node);
+
+        Node copy = new Node(node.val);
+        map.put(node, copy);
+
+        for(Node nei : node.neighbors){
+            copy.neighbors.add(cloneGraph(nei));
         }
-        return map.get(node);
+        return copy;
     }
 }
+
+// bfs
+// class Solution {
+//     public Node cloneGraph(Node node) {
+//         if (node == null) return null;
+//         Map<Node, Node> map = new HashMap<>();
+//         Queue<Node> q = new LinkedList<>();
+//         q.offer(node);
+//         map.put(node, new Node(node.val));
+//         while (!q.isEmpty()) {
+//             Node curr = q.poll();
+//             for (Node nei : curr.neighbors) {
+//                 if (!map.containsKey(nei)) {
+//                     map.put(nei, new Node(nei.val));
+//                     q.offer(nei);
+//                 }
+//                 map.get(curr).neighbors.add(map.get(nei));
+//             }
+//         }
+//         return map.get(node);
+//     }
+// }
