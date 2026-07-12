@@ -51,6 +51,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
