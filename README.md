@@ -110,6 +110,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
 |  |
@@ -146,9 +150,14 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
