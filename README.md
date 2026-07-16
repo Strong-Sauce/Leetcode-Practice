@@ -62,6 +62,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
