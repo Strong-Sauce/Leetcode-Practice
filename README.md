@@ -55,6 +55,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -171,4 +173,16 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
