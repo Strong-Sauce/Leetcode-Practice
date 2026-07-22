@@ -17,14 +17,14 @@ class Solution {
     static class Info {
         boolean isBST;
         int sum;
-        int min;
-        int max;
+        int minVal;
+        int maxVal;
 
         public Info(boolean isBST, int sum, int min, int max) {
             this.isBST = isBST;
             this.sum = sum;
-            this.min = min;
-            this.max = max;
+            this.minVal = min;
+            this.maxVal = max;
         }
     }
 
@@ -35,23 +35,17 @@ class Solution {
             return new Info(true, 0, Integer.MAX_VALUE, Integer.MIN_VALUE);
         }
 
-        Info leftInfo = largestBST(root.left);
-        Info rightInfo = largestBST(root.right);
+        Info left = largestBST(root.left);
+        Info right = largestBST(root.right);
 
-        int sum = leftInfo.sum + rightInfo.sum + root.val;
-        int min = Math.min(root.val, Math.min(leftInfo.min, rightInfo.min));
-        int max = Math.max(root.val, Math.max(leftInfo.max, rightInfo.max));
-
-        if (root.val <= leftInfo.max || root.val >= rightInfo.min) {
-            return new Info(false, sum, min, max);
+        if (left.isBST && right.isBST && root.val > left.maxVal && root.val < right.minVal) {
+            int currSum = left.sum + right.sum + root.val;
+            maxSum = Math.max(maxSum, currSum);
+            return new Info(true, currSum, Math.min(root.val, left.minVal), Math.max(root.val, right.maxVal));
         }
 
-        if (leftInfo.isBST && rightInfo.isBST) {
-            maxSum = Math.max(maxSum, sum);
-            return new Info(true, sum, min, max);
-        }
-
-        return new Info(false, sum, min, max);
+        // Not a BST
+        return new Info(false, 0, 0, 0);
     }
 
     public int maxSumBST(TreeNode root) {
