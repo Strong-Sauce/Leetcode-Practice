@@ -107,6 +107,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
