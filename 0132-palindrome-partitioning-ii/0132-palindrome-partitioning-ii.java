@@ -1,27 +1,39 @@
 class Solution {
-    int[] memo;
-    boolean isPal(String s, int l, int r){
-        while(l < r){
-            if(s.charAt(l) != s.charAt(r)) return false;
-            l++; r--;
-        }
-        return true;
-    }
-    int dp(String s, int i){
-        if(i == s.length()) return -1;
-
-        if(memo[i] != -1) return memo[i];
-
-        int ans = Integer.MAX_VALUE;
-        for(int j=i; j<s.length(); j++){
-            if(isPal(s, i, j)) ans = Math.min(ans, 1 + dp(s, j+1));
-        }
-
-        return memo[i] = ans;
-    }
     public int minCut(String s) {
-        memo = new int[s.length()];
-        Arrays.fill(memo, -1);
-        return dp(s, 0);
+        char[] input = s.toCharArray();
+        int len = s.length();
+        int n = len;
+        int[] cut = new int[len];
+        for(int i=0; i<n; i++) cut[i] = i;
+
+        for(int i=1; i<len; i++){
+            if(input[i] == input[0]){
+                cut[i] = 0;
+                continue;
+            }
+            break;
+        }
+
+        for(int i=1; i<n; i++){
+            int last = cut[i-1];
+            int left = i-1;
+
+            cut[i] = Math.min(last+1, cut[i]);
+            while(i<len-1 && input[i]==input[i+1]){
+                last = Math.min(last, cut[i++]);
+                cut[i] = Math.min(cut[i], last+1);
+            }
+            int right = i+1;
+            while(left>0 && right<n && input[left] == input[right]){
+                cut[right] = Math.min(cut[right], cut[left-1]+1);
+                left--;
+                right++;
+            }
+            if(left == 0 && right<n && input[left] == input[right]){
+                cut[right] = 0;
+            }
+        }
+
+        return cut[len-1];
     }
 }
