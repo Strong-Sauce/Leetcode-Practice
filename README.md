@@ -108,6 +108,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
