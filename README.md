@@ -110,6 +110,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
