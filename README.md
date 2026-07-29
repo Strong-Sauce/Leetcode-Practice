@@ -61,6 +61,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -183,17 +185,20 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
