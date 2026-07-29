@@ -104,6 +104,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,4 +200,16 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
