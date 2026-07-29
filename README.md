@@ -63,6 +63,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0027-remove-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
