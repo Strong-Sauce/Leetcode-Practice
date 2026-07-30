@@ -71,6 +71,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 ## Matrix
@@ -121,6 +123,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
