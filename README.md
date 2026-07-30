@@ -301,6 +301,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
@@ -308,4 +309,5 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
