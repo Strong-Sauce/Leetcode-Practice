@@ -331,6 +331,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
