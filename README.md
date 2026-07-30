@@ -299,9 +299,11 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
