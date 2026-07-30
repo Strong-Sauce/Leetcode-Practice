@@ -93,6 +93,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0124-binary-tree-maximum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
