@@ -64,6 +64,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
