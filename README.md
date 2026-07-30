@@ -261,6 +261,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
@@ -398,4 +399,5 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
