@@ -64,6 +64,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0015-3sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0046-permutations) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
