@@ -223,6 +223,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
