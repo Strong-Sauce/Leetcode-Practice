@@ -73,6 +73,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0053-maximum-subarray](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
