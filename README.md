@@ -66,6 +66,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
