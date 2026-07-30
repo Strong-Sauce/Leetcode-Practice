@@ -168,6 +168,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
