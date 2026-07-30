@@ -207,6 +207,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
@@ -227,6 +228,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0020-valid-parentheses](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
