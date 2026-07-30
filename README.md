@@ -267,6 +267,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
@@ -311,11 +313,13 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0046-permutations) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
