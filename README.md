@@ -129,6 +129,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0138-copy-list-with-random-pointer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -308,10 +310,15 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0061-rotate-list](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
