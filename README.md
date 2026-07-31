@@ -162,6 +162,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0151-reverse-words-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -332,6 +334,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
