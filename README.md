@@ -93,6 +93,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -437,4 +440,5 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
