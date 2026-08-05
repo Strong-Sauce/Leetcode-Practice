@@ -1,54 +1,31 @@
 class Solution {
 public:
-    bool outsideConnection = false;
-    vector<int> mark;
-
-    void bfs(int color, unordered_map<int, vector<int>>& graph, int src){
-        queue<int> q;
-        q.push(src);
-        mark[src] = color;
-
+    vector<int> remainingMethods(int n,int k,vector<vector<int>>& invocations){
+        vector<vector<int>>g(n);
+        vector<int>vis(n);
+        for(auto &e:invocations) g[e[0]].push_back(e[1]);
+        queue<int>q;
+        q.push(k);
+        vis[k]=1;
         while(!q.empty()){
-            int node = q.front();
+            int u=q.front();
             q.pop();
-
-            if(!graph.count(node)) continue;
-
-            for(int nxt : graph[node]){
-                if(mark[nxt] == 1 && color == 2){
-                    outsideConnection = true;
-                    return;
-                }
-
-                if(mark[nxt] != color){
-                    mark[nxt] = color;
-                    q.push(nxt);
+            for(int v:g[u]){
+                if(!vis[v]){
+                    vis[v]=1;
+                    q.push(v);
                 }
             }
         }
-    }
-
-    vector<int> remainingMethods(int n, int k, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> graph;
-        mark.assign(n, 0);
-
-        for(auto &e : edges)
-            graph[e[0]].push_back(e[1]);
-
-        bfs(1, graph, k);
-
-        for(int i = 0; i < n; i++){
-            if(i == k || mark[i] == 1) continue;
-            bfs(2, graph, i);
+        for(auto &e:invocations){
+            if(!vis[e[0]] && vis[e[1]]){
+                vector<int>ans;
+                for(int i=0;i<n;i++)ans.push_back(i);
+                return ans;
+            }
         }
-
-        vector<int> res;
-
-        for(int i = 0; i < n; i++){
-            if(!outsideConnection && mark[i] == 1) continue;
-            res.push_back(i);
-        }
-
-        return res;
+        vector<int>ans;
+        for(int i=0;i<n;i++)if(!vis[i]) ans.push_back(i);
+        return ans;
     }
 };
