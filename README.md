@@ -70,6 +70,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0035-search-insert-position](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0055-jump-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
