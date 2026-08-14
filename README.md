@@ -94,6 +94,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -537,4 +539,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
