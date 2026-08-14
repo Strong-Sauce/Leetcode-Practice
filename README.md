@@ -94,6 +94,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
