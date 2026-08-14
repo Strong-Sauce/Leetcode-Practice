@@ -181,6 +181,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -205,6 +206,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
