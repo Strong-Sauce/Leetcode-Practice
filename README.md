@@ -89,6 +89,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0045-jump-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0135-candy) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
