@@ -80,6 +80,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0056-merge-intervals](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0038-count-and-say](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
 ## Linked List
 |  |
 | ------- |
