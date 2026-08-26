@@ -103,6 +103,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0215-kth-largest-element-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
 ## Graph Theory
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0054-spiral-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
