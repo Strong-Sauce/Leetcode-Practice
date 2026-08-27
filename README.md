@@ -211,6 +211,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
