@@ -199,6 +199,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0058-length-of-last-word](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
