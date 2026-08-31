@@ -28,10 +28,31 @@ public:
         }
         return next[0];
     }
+    int sol(vector<vector<int>>& grid){
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<int> dp(m);
+        dp[0] = grid[0][0];
+        // First row
+        for(int c = 1; c < m; c++) {
+            dp[c] = dp[c-1] + grid[0][c];
+        }
+        // Remaining rows
+        for(int r = 1; r < n; r++) {
+            // First column
+            dp[0] += grid[r][0];
+
+            for(int c = 1; c < m; c++) {
+                dp[c] = min(dp[c], dp[c-1]) + grid[r][c];
+            }
+        }
+
+        return dp[m-1];
+    }
     int minPathSum(vector<vector<int>>& grid) {
         // int n = grid.size(), m = grid[0].size();
         // vector<vector<int>> dp(n, vector<int>(m, -1));
         // return solMem(grid, 0,0, dp);
-        return solTab(grid);
+        return sol(grid);
     }
 };
