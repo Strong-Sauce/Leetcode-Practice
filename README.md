@@ -537,6 +537,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0138-copy-list-with-random-pointer](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
