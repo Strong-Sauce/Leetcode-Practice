@@ -115,6 +115,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -648,4 +650,12 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
