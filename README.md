@@ -218,6 +218,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1386-cinema-seat-allocation](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0151-reverse-words-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1927-sum-game) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
