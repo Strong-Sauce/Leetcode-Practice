@@ -223,6 +223,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0141-linked-list-cycle](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0151-reverse-words-in-a-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0069-sqrtx](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -683,4 +686,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
