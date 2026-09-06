@@ -265,6 +265,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0067-add-binary](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0139-word-break) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0062-unique-paths](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
