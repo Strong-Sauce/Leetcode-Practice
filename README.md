@@ -66,6 +66,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1978-employees-whose-manager-left-the-company) |
