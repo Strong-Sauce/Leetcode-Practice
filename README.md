@@ -511,6 +511,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3345-smallest-divisible-digit-product-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3870-count-commas-in-range](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
