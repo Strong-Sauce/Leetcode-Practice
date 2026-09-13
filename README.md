@@ -125,6 +125,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
+| [0835-image-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0074-search-a-2d-matrix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
