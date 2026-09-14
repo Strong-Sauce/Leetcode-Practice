@@ -509,6 +509,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -722,4 +723,8 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
