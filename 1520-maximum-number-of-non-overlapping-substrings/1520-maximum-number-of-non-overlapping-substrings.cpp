@@ -1,62 +1,52 @@
 class Solution {
 public:
     vector<string> maxNumOfSubstrings(string s) {
-        int n = s.length();
-        vector<int> start(26, n), end(26, -1);
+        int count[26] = {};
+        int first[26], last[26];
 
-        // 1. Record first and last occurrence of each character
-        for (int i = 0; i < n; ++i) {
-            int idx = s[i] - 'a';
-            start[idx] = min(start[idx], i);
-            end[idx] = max(end[idx], i);
+        fill(first, first + 26, -1);
+        fill(last, last + 26, -1);
+
+        vector<int> order;
+
+        for (int i = 0; i < s.size(); i++) {
+            int c = s[i] - 'a';
+
+            if (count[c] == 0) {
+                first[c] = i;
+                order.push_back(c);
+            }
+
+            count[c]++;
+            last[c] = i;
         }
 
-        vector<pair<int, int>> intervals;
+        vector<string> res;
+        deque<array<int, 3>> queue;
 
-        for (int c = 0; c < 26; ++c) {
-            if (start[c] > end[c]) continue;
+        for (int c : order) {
+            queue.push_front({first[c], last[c], count[c]});
 
-            int l = start[c];
-            int r = end[c];
-            bool changed = true;
+            int left = INT_MAX;
+            int right = INT_MIN;
+            int total = 0;
 
-            // Expand the window until all characters inside it
-            // have all their occurrences inside as well
-            while (changed) {
-                changed = false;
-                for (int i = l; i <= r; ++i) {
-                    int ch = s[i] - 'a';
-                    if (start[ch] < l) {
-                        l = start[ch];
-                        changed = true;
-                    }
-                    if (end[ch] > r) {
-                        r = end[ch];
-                        changed = true;
-                    }
+            for (auto& item : queue) {
+                total += item[2];
+                left = min(left, item[0]);
+                right = max(right, item[1]);
+
+                if (total == right - left + 1) {
+                    break;
                 }
             }
 
-            // Only add if the interval starts at this character’s first occurrence
-            if (l == start[c]) {
-                intervals.emplace_back(l, r);
+            if (total == right - left + 1) {
+                res.push_back(s.substr(left, right - left + 1));
+                queue.clear();
             }
         }
 
-        // 3. Sort by end to apply greedy selection
-        sort(intervals.begin(), intervals.end(), [](auto &a, auto &b) {
-            return a.second < b.second;
-        });
-
-        vector<string> result;
-        int prevEnd = -1;
-        for (auto [l, r] : intervals) {
-            if (l > prevEnd) {
-                result.push_back(s.substr(l, r - l + 1));
-                prevEnd = r;
-            }
-        }
-
-        return result;
+        return res;
     }
 };
