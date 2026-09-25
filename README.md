@@ -190,6 +190,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -247,6 +248,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0155-min-stack](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0274-h-index](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0046-permutations) |
+| [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Data Stream
 |  |
