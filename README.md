@@ -189,6 +189,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0133-clone-graph](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0242-valid-anagram](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0022-generate-parentheses](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Data Stream
