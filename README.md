@@ -166,6 +166,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
@@ -556,6 +557,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3870-count-commas-in-range](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [3483-unique-3-digit-even-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
