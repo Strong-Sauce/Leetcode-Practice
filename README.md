@@ -129,6 +129,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -214,6 +217,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0128-longest-consecutive-sequence](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -228,6 +232,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
