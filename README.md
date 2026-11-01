@@ -123,6 +123,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0322-coin-change](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0835-image-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0835-image-overlap) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0202-happy-number](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
