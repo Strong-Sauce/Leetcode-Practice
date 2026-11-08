@@ -132,6 +132,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0200-number-of-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0289-game-of-life](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -674,6 +679,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0169-majority-element](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
