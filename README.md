@@ -133,6 +133,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | [0836-rectangle-overlap](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1510-stone-game-iv) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to record the coding Practice! - Created usin
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Strong-Sauce/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
