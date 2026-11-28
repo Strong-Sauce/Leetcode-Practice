@@ -1,29 +1,42 @@
 class Solution {
 public:
     int maximumSaleItems(vector<vector<int>>& items, int budget) {
-        int n = items.size(), cheapest = INT_MAX;
-        vector<int> have(n + 1);  // have[f]: items with factor f
+        int n = items.size();
+        int maxFact = 0, minPrice = INT_MAX;
         for (auto& item : items) {
-            have[item[0]]++;
-            cheapest = min(cheapest, item[1]);
+            maxFact = max(maxFact, item[0]);
+            minPrice = min(minPrice, item[1]);
         }
-        vector<int> deals(n + 1, -1);  // counted when an item is reached
+        vector<int> freq(maxFact + 1, 0);
+        for (auto& item : items) {
+            freq[item[0]]++;
+        }
+        
+        map<int, long long> mp;
+        for (auto& item : items) {
+            int price = item[1];
+            int f = item[0];
+            if (price > 2 * minPrice) continue;
+            long long cnt = 0;
+            for (int i = f; i <= maxFact; i += f) {
+                cnt += freq[i];
+            }
+            cnt--;
+            if (cnt > 0) {
+                mp[price] += cnt;
+            }
+        }
 
-        vector<pair<int, int>> worth;
-        for (auto& item : items)
-            if (item[1] < 2 * cheapest) worth.emplace_back(item[1], item[0]);
-        priority_queue heap(greater<>(), std::move(worth));  // built in O(n)
-        int copies = 0;
-        while (!heap.empty() && heap.top().first <= budget) {  // the cheapest deal left is affordable
-            auto [price, factor] = heap.top();
-            heap.pop();
-            if (deals[factor] < 0)  // from -1: the item itself is not a deal
-                for (int multiple = factor; multiple <= n; multiple += factor)
-                    deals[factor] += have[multiple];
-            int pairs = min(deals[factor], budget / price);
-            copies += 2 * pairs;
-            budget -= pairs * price;
+        long long bonus = 0;
+        long long cur = budget;
+        for (auto& [price, cnt] : mp) {
+            if (cur < price) break;
+            long long buy = min(cnt, 1LL * cur / price);
+            cur -= buy * price;
+            bonus += buy;
         }
-        return copies + budget / cheapest;
+        long long ans = cur / minPrice;
+        ans += 2 * bonus;
+        return ans;
     }
 };
